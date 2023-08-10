@@ -1,0 +1,19 @@
+VIDEOS
+--------- Low poly environment ---------
+https://www.youtube.com/watch?v=nAHzjc2TbZA&list=PL2u8FB_kebyAbHJE1aXAeW6HE6yLgpMuW&index=23
+https://www.youtube.com/watch?v=-oUb1XC8wT8&list=PL2u8FB_kebyAbHJE1aXAeW6HE6yLgpMuW&index=24
+
+--------- Low poly trees ---------
+https://www.youtube.com/watch?v=Waa1sgLfLe0
+
+--------- Low poly rocks ---------
+https://www.youtube.com/watch?v=8LUTku3AN50
+
+--------- Bamboo sticks ---------
+https://www.youtube.com/watch?v=aLT3GqtrRwk
+
+
+TEXTURES
+Cork Texture -> https://freepbr.com/materials/cork-wood-pbr-material/
+Light wood -> https://polyhaven.com/a/laminate_floor_02
+Bamboo texture -> http://simo-3d.blogspot.com/2014/09/texture-seamless-bambu.html
